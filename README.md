@@ -12,11 +12,11 @@
 - [x] Los comentarios se centran en mejorar la calidad del código y la implementación de las features.
 
 4. **Iteración y ajustes:**
-- [ ] El autor de la PR responde a los comentarios del revisor y realiza los cambios necesarios.
-- [ ] La PR se actualiza según sea necesario para abordar los comentarios recibidos.
+- [x] El autor de la PR responde a los comentarios del revisor y realiza los cambios necesarios.
+- [x] La PR se actualiza según sea necesario para abordar los comentarios recibidos.
 
 5. **Aprobación y fusión:**
-- [ ] Una vez que la PR ha sido aprobada por el revisor, el autor puede fusionar los cambios en la rama principal.
+- [x] Una vez que la PR ha sido aprobada por el revisor, el autor puede fusionar los cambios en la rama principal.
 
 6. **Cierre de issue:**
-- [ ] Si la PR resuelve una issue específica, se vincula con la issue correspondiente en el proyecto y se cierra la issue si la tarea se ha completado con éxito.
+- [x] Si la PR resuelve una issue específica, se vincula con la issue correspondiente en el proyecto y se cierra la issue si la tarea se ha completado con éxito.
